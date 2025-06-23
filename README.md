@@ -1,8 +1,8 @@
-Mi nombre es Fernando Martín y soy estudiante de cuarto año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha. 
+# 👋 Sobre mí
 
-Me apasiona la tecnología, el desarrollo de software y la resolución de problemas mediante programación.
+¡Hola! Soy **Fernando Martín**, estudiante de cuarto año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha.
 
-Soy muy inquieto, no paro de aprender cosas nuevas que intento aplicar al desarrollo web o de aplicaciones móviles para crear soluciones. También disfruto mucho de la buena música, que me acompaña en mis sesiones de programación y soy un gran amante de los gatos.
+Me apasiona la tecnología, el desarrollo de software y encontrar soluciones creativas a través de la programación. Soy curioso y siempre estoy en busca de aprender algo nuevo que pueda aplicar en el desarrollo web o en la creación de aplicaciones móviles. También disfruto mucho de la buena música, que me acompaña en mis sesiones de programación y soy un gran amante de los gatos. 🐈
 
 ## 🚀 Tecnologías y herramientas que manejo
 - **Lenguajes:** Java, Python, JavaScript
