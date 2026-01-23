@@ -23,4 +23,4 @@ También disfruto mucho de la buena música, que me acompaña en mis sesiones de
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre estoy explorando nuevos proyectos y tecnologías. Si te interesa lo que hago, no dudes en pasarte por mis repositorios. 🚀
+¡Gracias por visitar mi perfil! Siempre estoy explorando nuevos proyectos y tecnologías. Si te interesa lo que hago, no dudes en pasarte por mis repositorios.
