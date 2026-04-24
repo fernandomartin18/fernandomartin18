@@ -1,26 +1,26 @@
-# 👋 Sobre mí
+# 👋 ¡Hola! Soy Fernando Martín
 
-¡Hola! Soy **Fernando Martín**, estudiante de cuarto año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha.
+Soy estudiante de último año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha (UCLM). Me apasiona resolver problemas a través de soluciones tecnológicas sólidas, priorizando siempre la eficiencia y las buenas prácticas. 
 
-Me apasiona la tecnología, el desarrollo de software y encontrar soluciones creativas a través de la programación. 
+Soy una persona versátil que disfruta del aprendizaje continuo, con gran capacidad para adaptarme a nuevos *stacks* tecnológicos y aportar una visión técnica integral en proyectos desafiantes.
 
-Soy curioso y siempre estoy en busca de aprender algo nuevo que pueda aplicar en el desarrollo web o en la creación de aplicaciones móviles. 
+## 🏆 Proyecto Destacado
+* **αGENESIS:** Aplicación web de generación automática de código cuántico-clásico mediante Inteligencia Artificial multimodal. Este proyecto constituye mi **Trabajo de Fin de Grado (TFG)** y fue desarrollado gracias a una **Beca de Colaboración del Ministerio** en el Departamento de Tecnologías y Sistemas de Información (UCLM).
 
-También disfruto mucho de la buena música, que me acompaña en mis sesiones de programación y soy un gran amante de los gatos. 🐈
-
-## 🚀 Tecnologías y herramientas que manejo
-- **Lenguajes:** Java, Python, JavaScript
-- **Frameworks:** React (web) y React Native (móvil)
-- **Control de versiones:** Git, GitHub
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Java, Python, JavaScript, TypeScript.
+* **Frameworks & Librerías:** React, React Native, Node.js, Express, Next.js.
+* **Bases de Datos & Cloud:** MongoDB, Firebase, PostgreSQL, conocimientos básicos de AWS/Azure.
+* **Herramientas & Otros:** Git, GitHub, Docker, Metodologías Ágiles (Scrum).
 
 ## 💻 Lo que me gusta desarrollar
-- Aplicaciones web para la gestión y optimización de procesos
-- Aplicaciones móviles como redes sociales y soluciones interactivas
-- Proyectos colaborativos donde pueda seguir aprendiendo y aportando
+* Arquitecturas y sistemas que optimicen procesos y generen un impacto positivo.
+* Soluciones integrales que combinan lógica backend con interfaces de usuario intuitivas.
+* Proyectos colaborativos donde pueda seguir aprendiendo, compartiendo conocimientos y aportando valor.
 
-## 📫 Contacto
-- 📧 fernandomm1840@gmail.com
+## 📫 Conecta conmigo
+* 🌐 **Portafolio:** [fernandomartin.tech](https://fernandomartin.tech)
+* 📧 **Email:** [fernandomm1840@gmail.com](mailto:fernandomm1840@gmail.com)
 
 ---
-
-¡Gracias por visitar mi perfil! Siempre estoy explorando nuevos proyectos y tecnologías. Si te interesa lo que hago, no dudes en pasarte por mis repositorios.
+*¡Gracias por visitar mi perfil! Siempre estoy explorando nuevos retos. Si te interesa mi trabajo, no dudes en echarle un vistazo a mis repositorios.*
