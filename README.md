@@ -6,8 +6,10 @@ Me muevo cómodamente entre diferentes tecnologías. Trabajo con Java, Python y 
 
 A nivel personal, la curiosidad y la constancia son mis motores. Valoro mucho el trabajo en equipo y el aprendizaje mutuo en cada proyecto. Y sí, la música y mi gato suelen ser mi mejor compañía en las sesiones de código en casa.
 
-## 🏆 Proyecto Destacado: GENESIS
+## 🗂️ Proyecto Destacado: GENESIS
 Aplicación web de generación automática de código cuántico-clásico mediante Inteligencia Artificial multimodal. Este proyecto constituye mi **Trabajo de Fin de Grado (TFG)** y fue desarrollado gracias a una **Beca de Colaboración del Ministerio** en el Departamento de Tecnologías y Sistemas de Información (UCLM).
+
+* 🧑🏻‍💻 **Código del proyecto:** [Repositorio Frontend](https://github.com/fernandomartin18/TFG-Frontend) | [Repositorio Backend](https://github.com/fernandomartin18/TFG-Backend)
 
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguajes:** Java, Python, JavaScript, TypeScript.
