@@ -1,11 +1,13 @@
 # 👋 ¡Hola! Soy Fernando Martín
 
-Soy estudiante de último año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha (UCLM). Me apasiona resolver problemas a través de soluciones tecnológicas sólidas, priorizando siempre la eficiencia y las buenas prácticas. 
+Soy estudiante de último año de **Ingeniería Informática** en la Universidad de Castilla-La Mancha (UCLM) y desde siempre me ha fascinado cómo la tecnología puede transformar ideas en realidades. Entiendo la programación no solo como líneas de código, sino como la herramienta definitiva para diseñar proyectos que combinan lógica, eficiencia y utilidad real.
 
-Soy una persona versátil que disfruta del aprendizaje continuo, con gran capacidad para adaptarme a nuevos *stacks* tecnológicos y aportar una visión técnica integral en proyectos desafiantes.
+Me muevo cómodamente entre diferentes tecnologías. Trabajo con Java, Python y JavaScript, y cuento con experiencia sólida creando aplicaciones y webs con React. Sin embargo, más allá de la herramienta o el framework, mi objetivo es siempre el mismo: construir soluciones de software integrales, bien estructuradas y que conecten realmente con las necesidades del usuario final.
 
-## 🏆 Proyecto Destacado
-* **αGENESIS:** Aplicación web de generación automática de código cuántico-clásico mediante Inteligencia Artificial multimodal. Este proyecto constituye mi **Trabajo de Fin de Grado (TFG)** y fue desarrollado gracias a una **Beca de Colaboración del Ministerio** en el Departamento de Tecnologías y Sistemas de Información (UCLM).
+A nivel personal, la curiosidad y la constancia son mis motores. Valoro mucho el trabajo en equipo y el aprendizaje mutuo en cada proyecto. Y sí, la música y mi gato suelen ser mi mejor compañía en las sesiones de código en casa.
+
+## 🏆 Proyecto Destacado: GENESIS
+Aplicación web de generación automática de código cuántico-clásico mediante Inteligencia Artificial multimodal. Este proyecto constituye mi **Trabajo de Fin de Grado (TFG)** y fue desarrollado gracias a una **Beca de Colaboración del Ministerio** en el Departamento de Tecnologías y Sistemas de Información (UCLM).
 
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguajes:** Java, Python, JavaScript, TypeScript.
